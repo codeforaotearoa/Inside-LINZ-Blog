@@ -8,7 +8,7 @@ authorId: Vaishnavi
 ##LINZ
 Land Information New Zealand or Toitū Te Whenua, which is popular as LINZ, is an NZ federal government agency that is responsible for making regulations that govern our land.
 
-LINZ is also the organtisation that has been the pioneer and is at the fore-front of open data.
+LINZ is also the organisation that has been the pioneer and is at the fore-front of open data.
 
 ## So who am I?
 Well Hi to all readers, I am Vaishnavi - a software developer who along with my other developer friends - Marcus, Pete and Gabby, have joined a pilot program called Code For Aotearoa. We strongly believe that keyboard is mightier than a sword and we are here to change the world.
