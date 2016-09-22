@@ -1,5 +1,5 @@
 ---
-title: Hydrography, or Hey Pal, Stop Launching Missiles In Our Ocean
+title: Hydrography, or Hey Pal, Stop Launching Missiles From Our Ocean
 date: 2016/09/22 19:45
 authorId: Marcus
 ---
