@@ -4,14 +4,13 @@ date: 1970/01/25 15:00
 authorId: marcus / vaishnavi
 ---
 
-=== Tables ===
+---
 
 | Tables | Headings | Go | At | The | Top |
 | ------ | -------- | -- | -- | --- | --- |
 | Words  | Words    | 1  | 2  | 3   | 4   |
 
-
-=== Headings ===
+---
 
 # Largest heading
 ## A bit smaller
@@ -19,12 +18,20 @@ authorId: marcus / vaishnavi
 #### A bit smaller
 ##### Smallest heading
 
-=== Lists ===
+---
 
 * Unordered Bullet Point Lists
 * Here is another point
 * And another
 
+---
+
+[Link title goes here](http://linkurlgoeshere.com)
+
+[ Link title goes here ] ( http://linkurlgoeshere.com )
+
+---
+
 NOTE: THE AUTHOR ID MUST BE ALL LOWER CASE OR ELSE IT BREAKS
 
-Google Markdown Cheatsheet
+For most information, you can google Markdown Cheatsheet
