@@ -1,7 +1,7 @@
 ---
 title: The World Called LINZ
 date: 2016/10/10 11:00
-authorId: vaishnavi
+authorId: Vaishnavi
 ---
 #CHANGE
 
@@ -48,7 +48,7 @@ Just the way private sector needs to keep up with change to sustain, similarly g
 
 ###So, you just are just validating what Darwin said years ago?.... 
 Yep,  I am just confirming what we  all have known for years. 
-If we understand this and make small changes at a time, we will be winners but if we oppose it and then have to change a whole lot of things that have piled up in front of us then we are just making our lives more difficult.
+Change is an inherent part of the process of evolution and growth. If we understand this and make small changes at a time, we will be winners but if we oppose it, then we a whole lot of things piled up in front of us and the day we realise this, it wont be easy for us anymore.
 
 And that’s where I sign off today… more on performance next week :)
 
