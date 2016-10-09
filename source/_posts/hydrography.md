@@ -1,7 +1,7 @@
 ---
 title: Hydrography, or Hey Pal, Stop Launching Missiles From Our Ocean
 date: 2016/09/22 19:45
-authorId: Marcus
+authorId: marcus
 ---
 
 ### Hey, you look kinda tired? Doing alright there?
