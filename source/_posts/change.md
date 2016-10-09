@@ -50,7 +50,7 @@ Private sector needs to keep up with change to survive the competition and make 
 Yep,  I am just confirming what we  all have known for years. 
 Change is an inherent part of the process of evolution and growth. If we understand this and make small changes at a time, we will be winners. But if we oppose it, then we keep pilling up on a whole lot of things that need to be changed, and changing a whole lot of things at once wont be easy for us anymore.
 
-And that’s where I sign off today… more on performance next :)
+And that’s where I sign off today… more on performance next 😊
 
 
 
