@@ -44,11 +44,11 @@ Hmm that's a good question… but the answer is straightforward. If people stop 
 
 ###Easier said than done, give me a tangible way to do this.
 I think the day everything starts linking back to PERFORMANCE, this problem will be solved automatically.
-Just the way private sector needs to keep up with change to sustain, similarly government needs to keep up with change to sustain and individuals needs to understand that as well.
+Just the way private sector needs to keep up with change to survive the competition and make profit, similarly government needs to keep up with change to sustain & improve and individuals needs to understand that as well.
 
 ###So, you just are just validating what Darwin said years ago?.... 
 Yep,  I am just confirming what we  all have known for years. 
-Change is an inherent part of the process of evolution and growth. If we understand this and make small changes at a time, we will be winners but if we oppose it, then we keep pilling up on a whole lot of things that need to be changed, and changing a whole lot of things at once wont be easy for us anymore.
+Change is an inherent part of the process of evolution and growth. If we understand this and make small changes at a time, we will be winners. But if we oppose it, then we keep pilling up on a whole lot of things that need to be changed, and changing a whole lot of things at once wont be easy for us anymore.
 
 And that’s where I sign off today… more on performance next :)
 
