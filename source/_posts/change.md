@@ -11,7 +11,7 @@ To me anything different is change.
 This brings us to the next question…
 
 ###Do you like it?...
-At the first instinct, I don’t like it… (here I don't include clothes and food coz I love those changes ;))
+At the first instinct, I don’t like it… (here I don't include clothes and food coz I love those changes 😉)
 
 ###So do you like it afterwards?... 
 Well this depends on the change itself. If I can adapt to it quickly then yes I like it but if I have to make an effort then it takes a while to like it and even after that sometimes I don't like it.
@@ -26,7 +26,7 @@ Wooh that’s a lot of liking in this blog….
 That's the whole point.. If we get it and start liking stuff then things will be better
 
 ###And how does it relate to your work at LINZ?
-You always have to break my bubble... :/
+You always have to break my bubble... 😒
 Well it has all the relation to it and not just to LINZ but to every organisation.
 And more so for organisations that have people working with them for a long long time.
 
