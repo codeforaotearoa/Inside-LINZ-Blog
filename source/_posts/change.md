@@ -48,9 +48,9 @@ Just the way private sector needs to keep up with change to sustain, similarly g
 
 ###So, you just are just validating what Darwin said years ago?.... 
 Yep,  I am just confirming what we  all have known for years. 
-Change is an inherent part of the process of evolution and growth. If we understand this and make small changes at a time, we will be winners but if we oppose it, then we a whole lot of things piled up in front of us and the day we realise this, it wont be easy for us anymore.
+Change is an inherent part of the process of evolution and growth. If we understand this and make small changes at a time, we will be winners but if we oppose it, then we keep pilling up on a whole lot of things that need to be changed, and changing a whole lot of things at once wont be easy for us anymore.
 
-And that’s where I sign off today… more on performance next week :)
+And that’s where I sign off today… more on performance next :)
 
 
 
