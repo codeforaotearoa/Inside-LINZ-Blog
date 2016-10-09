@@ -21,12 +21,12 @@ That is simple because I think it is not good for me.. If I feel it is good then
 
 Wooh that’s a lot of liking in this blog….
 
-###Hmm well lot of liking is better than disliking rt????????
+###Hmm well lot of liking is better than disliking right????????
 
 That's the whole point.. If we get it and start liking stuff then things will be better
 
 ###And how does it relate to your work at LINZ?
-You always have to break my bubble rt…. :/
+You always have to break my bubble... :/
 Well it has all the relation to it and not just to LINZ but to every organisation.
 And more so for organisations that have people working with them for a long long time.
 
